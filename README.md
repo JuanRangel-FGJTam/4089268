@@ -1,5 +1,4 @@
-![Hola](http://url/to/img.png)
-
+![Hola](./img/cat.jpeg)
 ### Hi there 👋
 
 <!--
